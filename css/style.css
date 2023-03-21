@@ -1,0 +1,25 @@
+body{
+    background-color: #FFFBE0;
+
+}
+hr{
+    border-style: none;
+    border-top-style:dotted ;
+    border-color: aqua;
+    border-width: 5px;
+    height: 0px;
+    width: 8%;
+    background-color: rgb(255, 251, 253);
+}
+
+#heading
+{
+    color:#FF5200;
+}
+h3{
+    color:#FF5200;
+}
+
+.circular{
+    border-radius: 100%;
+}
